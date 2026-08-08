@@ -5,6 +5,8 @@ tags: bicycle
 ---
 
 # I hate not knowing how to repair my bike
+![Alt text](assets/bike-repair.jpg)
+
 I live in Copenhagen. Bicycles are my primary means of transportation. On occassion, e.g. when leaving the city, I will use public transportation. I don't have a car or even a driver's licence.
 
 But I *suck* at repairing my bike(s). I want **so bad** to be good at it, but the couple of times I've tried to repair something that was broken on my bicycle, I either chickened out or broke it even more which just made the repair more costly.
